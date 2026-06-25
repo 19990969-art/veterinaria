@@ -11,7 +11,7 @@ Proyecto web desarrollado para la gestión y presentación de servicios de la **
 Este proyecto ha sido desarrollado siguiendo estándares modernos de desarrollo web:
 * **HTML:** Estructura semántica del contenido.
 * **CSS:** Estilos personalizados y diseño visual coherente.
-* **Bootstrap 5:** Framework utilizado para asegurar un diseño *responsive* (adaptable a dispositivos móviles).
+* **Bootstrap :** Framework utilizado para asegurar un diseño *responsive* (adaptable a dispositivos móviles).
 * **JavaScript:** Lógica de interacción y manipulación del DOM para mejorar la experiencia del usuario.
 * **Git & GitHub:** Control de versiones y colaboración en equipo.
   ## 🌐 Enlace del Proyecto
